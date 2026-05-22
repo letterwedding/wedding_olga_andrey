@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Заглушка фото Яны">
+  <rect width="400" height="400" fill="#f7f1ed"/>
+  <circle cx="200" cy="136" r="70" fill="#efbf96"/>
+  <path d="M112 132c28-102 153-105 177 4-52-48-119-46-177-4Z" fill="#d8b27c"/>
+  <path d="M105 248c35-95 154-95 190 0l42 152H63z" fill="#f3e8e3"/>
+  <text x="200" y="350" text-anchor="middle" font-family="Impact, Arial Black, sans-serif" font-size="32" fill="#d71922">ФОТО ЯНЫ</text>
+</svg>

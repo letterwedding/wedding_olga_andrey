@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 1080" role="img" aria-label="Заглушка главного фото">
+  <defs>
+    <pattern id="rug" width="80" height="80" patternUnits="userSpaceOnUse">
+      <rect width="80" height="80" fill="#78332d"/>
+      <path d="M0 40h80M40 0v80M12 12h56v56H12z" fill="none" stroke="#251b19" stroke-width="7"/>
+      <path d="M20 40c18-25 22-25 40 0-18 25-22 25-40 0Z" fill="none" stroke="#c9a36f" stroke-width="5"/>
+    </pattern>
+  </defs>
+  <rect width="760" height="1080" fill="url(#rug)"/>
+  <g opacity=".95">
+    <circle cx="100" cy="70" r="45" fill="#d52c2f"/>
+    <circle cx="205" cy="68" r="45" fill="#eea12f"/>
+    <circle cx="555" cy="67" r="52" fill="#77ad42"/>
+    <circle cx="665" cy="72" r="48" fill="#d52c2f"/>
+  </g>
+  <g transform="translate(130 505)">
+    <circle cx="95" cy="0" r="70" fill="#efbf96"/>
+    <path d="M28-16c38-55 80-53 129 0" fill="none" stroke="#ef9fc4" stroke-width="38" stroke-linecap="round"/>
+    <path d="M38 70h116l35 255H0z" fill="#e43831"/>
+  </g>
+  <g transform="translate(410 400)">
+    <circle cx="80" cy="0" r="58" fill="#efbf96"/>
+    <path d="M14-25c35-68 100-66 132 0" fill="none" stroke="#111" stroke-width="48" stroke-linecap="round"/>
+    <path d="M20 58h120l28 430H-8z" fill="#b35a35"/>
+    <rect x="55" y="70" width="50" height="220" fill="#25a9bd"/>
+  </g>
+  <text x="380" y="210" text-anchor="middle" font-family="Impact, Arial Black, sans-serif" font-size="88" fill="#fff" stroke="#d71922" stroke-width="11" paint-order="stroke">ГОРЬКО</text>
+  <text x="382" y="278" text-anchor="middle" font-family="Brush Script MT, cursive" font-size="58" fill="#fff" stroke="#d71922" stroke-width="7" paint-order="stroke">тише тише место</text>
+</svg>

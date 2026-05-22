@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 112" role="img" aria-label="Ретро магнитофон">
+  <rect x="12" y="30" width="156" height="70" rx="8" fill="#c9c9c9" stroke="#171717" stroke-width="6"/>
+  <rect x="43" y="12" width="94" height="22" rx="11" fill="none" stroke="#171717" stroke-width="6"/>
+  <rect x="70" y="43" width="40" height="18" rx="3" fill="#222"/>
+  <rect x="118" y="42" width="28" height="10" rx="2" fill="#595959"/>
+  <rect x="118" y="58" width="28" height="10" rx="2" fill="#595959"/>
+  <circle cx="48" cy="72" r="21" fill="#1b1b1b"/>
+  <circle cx="48" cy="72" r="10" fill="#777"/>
+  <circle cx="132" cy="72" r="21" fill="#1b1b1b"/>
+  <circle cx="132" cy="72" r="10" fill="#777"/>
+  <path d="M25 43h23M25 54h19M25 94h130" stroke="#171717" stroke-width="4" stroke-linecap="round"/>
+</svg>
