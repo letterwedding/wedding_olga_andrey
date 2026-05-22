@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Заглушка фото Лёхи">
-  <rect width="400" height="400" fill="#eeeeee"/>
-  <circle cx="200" cy="118" r="64" fill="#e8b78f"/>
-  <path d="M139 82c32-64 98-61 125 0-40-17-82-16-125 0Z" fill="#6b432c"/>
-  <rect x="132" y="126" width="136" height="24" rx="12" fill="#111"/>
-  <path d="M95 235c37-88 171-88 210 0l42 165H53z" fill="#fff"/>
-  <path d="M178 210h44l18 190h-80z" fill="#1d1d1d"/>
-  <text x="200" y="350" text-anchor="middle" font-family="Impact, Arial Black, sans-serif" font-size="32" fill="#d71922">ФОТО ЛЁХИ</text>
-</svg>

@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Диско-шар">
-  <circle cx="50" cy="50" r="39" fill="#d9d9d9" stroke="#1a1a1a" stroke-width="3"/>
-  <path d="M50 11v78M18 32h64M12 50h76M18 68h64M28 18c11 18 11 46 0 64M72 18c-11 18-11 46 0 64" fill="none" stroke="#8f8f8f" stroke-width="3"/>
-  <path d="M50 0v11" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-  <path d="M35 26h14v14H35zM55 42h15v15H55zM30 57h14v14H30zM49 66h17v14H49z" fill="#fff"/>
-</svg>
